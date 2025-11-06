@@ -1,5 +1,12 @@
-## Hi there 👋
+# 👋 Merhaba, ben Merve Üstünel  
 
+Yazılım Mühendisi — AI, veri analizi ve tasarımı birleştirerek yenilikçi çözümler geliştiriyorum.  
+Gerçek dünya problemlerini **akıllı sistemler** ve **yaratıcı arayüzlerle** çözen projeler üretiyorum.
+
+---
+
+### 💡 Alanlarım  
+🌐 Web Development | 🤖 AI & ML | 🎨 UI/UX
 <!--
 **merveustunel/merveustunel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
