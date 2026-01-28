@@ -1,7 +1,7 @@
 # Hi, I'm Merve Üstünel  
 
-Software Engineer — passionate about combining **AI, data analysis, and design** to create innovative solutions.  
-I build projects that solve real-world problems through **intelligent systems** and **creative interfaces**.
+Junior Software Engineer focused on **web and backend development** using React and Node.js.  
+I have experience in data-driven and AI-supported projects, but my main interest lies in building **robust web applications and APIs** that solve real-world problems.
 
 ### Focus Areas  
 Web Development | AI & Machine Learning | UI/UX Design  
