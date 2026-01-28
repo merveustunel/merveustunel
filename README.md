@@ -3,8 +3,11 @@
 Junior Software Engineer focused on **web and backend development** using React and Node.js.  
 I have experience in data-driven and AI-supported projects, but my main interest lies in building **robust web applications and APIs** that solve real-world problems.
 
-### Focus Areas  
-Web Development | AI & Machine Learning | UI/UX Design  
+### Focus Areas
+- Web & Backend Development  
+- Full-Stack Applications (React & Node.js)  
+- API Design & Database Systems  
+- Digital Transformation Projects
 
 ## Tech Stack  
 
